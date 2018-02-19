@@ -2036,7 +2036,7 @@
 
 	#header {
 		position: relative;
-		padding: 1em 1.5em 1em 1.5em;
+		padding: 1em 1.5em 0 3.5em;
 	}
 
 		#header .container {
@@ -2062,7 +2062,7 @@
 	#nav {
 		position: absolute;
 		right: 1em;
-		top: 0.9em;
+		top: 2em;
 	}
 
 		#nav > ul {
@@ -2328,6 +2328,7 @@
 /* Footer */
 
 	#footer {
+		background: #E3B100;
 		position: relative;
 		padding: 5em 0em 4em 0em;
 	}
@@ -2339,16 +2340,22 @@
 		}
 
 			#footer header h2 {
-				color: #87BD94;
+				color: #fff;
+			}
+
+			#footer ul.default a {
+				text-decoration: none;
+				color: #fff;
 			}
 
 		#footer ul.default li {
-			border-top-color: #403E3E;
+			border-top-color: #fff;
 		}
 
 /* Copyright */
 
 	.copyright {
+		color: #fff;
 		display: block;
 		padding: 1em 0em;
 		text-align: center;
@@ -2440,6 +2447,7 @@
 
 			#logo a {
 				padding-left: 0.70em;
+				text-align: center;
 			}
 
 	}
@@ -2811,6 +2819,7 @@
 			#logo {
 				top: 0em;
 				margin: 1.15em 0 1.15em 0;
+				text-align: center;
 			}
 
 			#nav {
