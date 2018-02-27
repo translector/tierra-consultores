@@ -1787,7 +1787,7 @@
 			width: 40px;
 			height: 40px;
 			padding-top: 2px;
-			background: #FFE37D;
+			background: #E3B100;
 			border-radius: 50%;
 			line-height: 40px;
 			text-align: center;
@@ -2016,7 +2016,7 @@
 		border: 1px solid #787777;
 		line-height: 3em;
 		font-size: 1.8em;
-		color: #FFE37D;
+		color: #E3B100;
 		text-decoration: none;
 	}
 
@@ -2099,7 +2099,7 @@
 		}
 
 		#nav li.current_page_item > a, #nav li.current_page_item > span {
-			background: #FFE37D;
+			background: #E3B100;
 			color: #FFF;
 		}
 
@@ -2269,7 +2269,7 @@
 		text-align: center;
 		color: #171010;
 	}
-
+	E3B100
 		#intro p {
 			line-height: 1.8em;
 			font-size: 1.3em;
@@ -2283,6 +2283,31 @@
 		#intro .content {
 			padding: 0em 3em;
 		}
+
+
+/* NP */
+
+#np {
+	position: relative;
+	padding: 5em 0em 4em 0em;
+	background: #E3B100;
+	text-align: center;
+	color: #fff;
+}
+
+	#np p {
+		line-height: 1.8em;
+		font-size: 1.3em;
+		font-weight: 100;
+	}
+
+	#np header h2 {
+		color: #fff;
+	}
+
+	#np .content {
+		padding: 0em 3em;
+	}
 
 /* Staff */
 
