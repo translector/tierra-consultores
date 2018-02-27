@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	body {
-		background: #333131;
+		background: #fff;
 		font-family: 'Roboto', sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
@@ -1787,11 +1787,11 @@
 			width: 40px;
 			height: 40px;
 			padding-top: 2px;
-			background: #E3B100;
+			background: #FFE37D;
 			border-radius: 50%;
 			line-height: 40px;
 			text-align: center;
-			color: #f2f1f1;
+			color: #333131;
 		}
 
 	ul.icons {
@@ -2016,7 +2016,7 @@
 		border: 1px solid #787777;
 		line-height: 3em;
 		font-size: 1.8em;
-		color: #E3B100;
+		color: #FFE37D;
 		text-decoration: none;
 	}
 
@@ -2036,7 +2036,7 @@
 
 	#header {
 		position: relative;
-		padding: 1em 1.5em 0 3.5em;
+		padding: .1em 1.5em 0 3.5em;
 	}
 
 		#header .container {
@@ -2090,7 +2090,7 @@
 					font-weight: 300;
 					font-size: 0.80em;
 					outline: 0;
-					color: #ccc;
+					color: #171010;
 					border-radius: 5px;
 				}
 
@@ -2099,7 +2099,7 @@
 		}
 
 		#nav li.current_page_item > a, #nav li.current_page_item > span {
-			background: #E3B100;
+			background: #FFE37D;
 			color: #FFF;
 		}
 
@@ -2265,9 +2265,9 @@
 	#intro {
 		position: relative;
 		padding: 5em 0em 4em 0em;
-		background: #E3B100;
+		background: #FFE37D;
 		text-align: center;
-		color: #FFF;
+		color: #171010;
 	}
 
 		#intro p {
@@ -2277,7 +2277,7 @@
 		}
 
 		#intro header h2 {
-			color: #FFF;
+			color: #171010;
 		}
 
 		#intro .content {
@@ -2328,8 +2328,9 @@
 /* Footer */
 
 	#footer {
+		background: #333131;
 		position: relative;
-		padding: 5em 0em 4em 0em;
+		padding: 5em 0em .5em 0em;
 	}
 
 		#footer header {
