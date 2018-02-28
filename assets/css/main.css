@@ -2016,7 +2016,7 @@
 		border: 1px solid #787777;
 		line-height: 3em;
 		font-size: 1.8em;
-		color: #E3B100;
+		color: #AEAC16;
 		text-decoration: none;
 	}
 
@@ -2099,7 +2099,7 @@
 		}
 
 		#nav li.current_page_item > a, #nav li.current_page_item > span {
-			background: #E3B100;
+			background: #AEAC16;
 			color: #FFF;
 		}
 
@@ -2265,7 +2265,7 @@
 	#intro {
 		position: relative;
 		padding: 5em 0em 4em 0em;
-		background: #FFE37D;
+		background: #f2f1f1;
 		text-align: center;
 		color: #171010;
 	}
@@ -2290,7 +2290,7 @@
 #np {
 	position: relative;
 	padding: 5em 0em 4em 0em;
-	background: #E3B100;
+	background: #AEAC16;
 	text-align: center;
 	color: #fff;
 }
