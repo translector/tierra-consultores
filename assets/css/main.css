@@ -2265,7 +2265,7 @@
 	#intro {
 		position: relative;
 		padding: 5em 0em 4em 0em;
-		background: #f2f1f1;
+		background: #fff;
 		text-align: center;
 		color: #171010;
 	}
@@ -2290,9 +2290,9 @@
 #np {
 	position: relative;
 	padding: 5em 0em 4em 0em;
-	background: #AEAC16;
+	background: #fff;
 	text-align: center;
-	color: #fff;
+	color: #171010;
 }
 
 	#np p {
@@ -2302,7 +2302,7 @@
 	}
 
 	#np header h2 {
-		color: #fff;
+		color: #171010;
 	}
 
 	#np .content {
